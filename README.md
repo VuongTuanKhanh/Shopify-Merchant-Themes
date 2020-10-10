@@ -1,5 +1,4 @@
 # Shopify-Merchant-Themes
-# vuejs-render-search-bar
 
 ### Hi there, I'm Vuong Tuan Khanh - aka [ArchiusVuong](https://www.facebook.com/cambo.li.9) 👋
 
