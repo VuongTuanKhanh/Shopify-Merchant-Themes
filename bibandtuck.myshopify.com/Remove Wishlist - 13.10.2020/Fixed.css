@@ -1,0 +1,53 @@
+.usf-dropdown {
+    background-image: url(down-arrow.svg)
+}
+
+.usf-mobile .usf-results.usf-grid{
+    margin-left: 0;
+}
+#usf_container .sticker {
+    float: left;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 5px;
+    background: #4cc2c1;
+    color: #fff;
+    z-index: 400;
+}
+.usf-results.usf-list, .usf-results.usf-grid {
+    padding-left: 30px !important;
+    padding-right: 0 !important
+}
+
+.usf-horz-layout .usf-results.usf-grid, .usf-horz-layout .usf-results.usf-list, .usf-mobile .usf-results.usf-grid, .usf-mobile .usf-results.usf-list {
+    padding-left: 0 !important
+}
+body:not(.usf-mobile) .usf-no-facets .usf-results.usf-grid, body:not(.usf-mobile) .usf-horz-layout .usf-results.usf-grid, .usf-mobile .usf-results.usf-grid,  body:not(.usf-mobile) .usf-filters-horz .usf-results.usf-grid {
+    margin-left: 0;
+    width: 100%;
+}
+.usf-sr-empty{
+    width: 100%;
+}
+#collection-template{
+    padding: 10px 20px;
+}
+body:not(.usf-mobile) .usf-dropdown{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+.usf-list .product-badge {
+    top: 0;
+    left: 0;
+}
+.usf-list .product-badge .sale-badge--circle, .usf-list .product-badge .soldout-badge--circle{
+    width: 40px;
+    height: 40px;
+}
+
+
+.swym-button.swym-add-to-wishlist-view-product {
+    display: none !important;
+}
