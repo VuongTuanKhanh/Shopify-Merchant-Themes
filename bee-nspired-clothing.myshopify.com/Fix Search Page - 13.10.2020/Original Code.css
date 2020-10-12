@@ -1,0 +1,9 @@
+.product-price__price {
+    font-weight: 600;
+    display: inline-block;
+    color: #788188;
+}
+
+.product-price__sale {
+    color: #7796a8;
+}

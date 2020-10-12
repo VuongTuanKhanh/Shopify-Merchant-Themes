@@ -1,0 +1,57 @@
+/* Impulse 3.0.2 */
+.usf-preview button[name='add'],
+.usf-add-to-cart-btn {
+    background-color: #3d155f;
+}
+
+.usf-filters-horz .usf-sr-config {
+    width: 100%;
+}
+
+body:not(.usf-collection-page) .usf-sr-inputbox {
+    display: none;
+}
+
+.usf-zone .grid__item img {
+    max-width: unset !important;
+    max-height: unset !important;
+}
+
+body.usf_impulse_33_drawer .usf-sr-container {
+    width: 100%;
+}
+
+body.usf_impulse_33_drawer .usf-facets {
+    width: 100%;
+}
+
+
+.usf-sr-config, .usf-sr-inputbox, .usf-sr-empty, .usf-sr-banner {
+    margin-left: 0px;
+}
+
+body:not(.usf-mobile) .usf-facets, #usf_container:not(.usf-filters-horz) .usf-facets {
+    padding-right: 15px;
+}
+
+.usf-results.usf-list {
+    padding-left: 0px;
+}
+
+.usf-facet .usf-title .usf-label, .usf-refineby .usf-title .usf-label,
+.usf-mobile .usf-header .usf-title {
+    color: #686666;
+}
+
+.usf-c-slider__track .usf-active {
+    background-color: #686666;
+}
+
+.usf-mobile .usf-facets .usf-close,
+.usf-mobile .usf-footer div {
+    background-color: #686666;
+}
+
+.usf-sr-more .usf-progress div {
+    background: #686666;
+}
